@@ -3,14 +3,17 @@
 IFTS 18 
 
 Integrantes 
-  - Yamila Villarnovo
-  - Joaquin Sosa
-  - Victor Mendez
-  - Agustina Perez
-  - Anderson Ocaña
+  - Yamila Villarnovo | PRESENTACION DOCUMENTACION TESTING
+  - Joaquin Sosa      | DASHBOARD BI DOCUMENTACION
+  - Victor Mendez     | FRONTEND DOCUMENTACIOON
+  - Agustina Perez    | FRONTEND DOCUMENTACION
+  - Anderson Ocaña    | BACKEND DOCUMENTACION
 
 ## GANTT
-![GANTT](/images/Online Gantt 20221114(2).png)
+
+Calculo aproximado de tiempos para el desarrollo del TP
+
+![](/images/gantt.png)
 
 ## Summary:
 
