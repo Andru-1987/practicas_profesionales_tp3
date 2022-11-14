@@ -83,6 +83,9 @@ El diagrama inicial es:
   
 ## PRESENTACIÓN DEL TRABAJO
   [ PRESENTACION REALIZADA PARA EL TP]
+  
+ ## DOCUMENTACION
+ [DOCUMENTACION EN CANVA](https://www.canva.com/design/DAFRx8KcgnE/rCpQ3CaTHnNhNXXL06K03g/view#2)
 
 ## TRELLO
   [TRELLO PRACTICAS LABORALES](https://trello.com/b/t1Clc0Ch/tp3-gestor-de-toma-de-bi)
