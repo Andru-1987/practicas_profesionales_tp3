@@ -3,11 +3,16 @@
 IFTS 18 
 
 Integrantes 
-  - Yamila Villarnovo | PRESENTACION DOCUMENTACION TESTING
-  - Joaquin Sosa      | DASHBOARD BI DOCUMENTACION
-  - Victor Mendez     | FRONTEND DOCUMENTACIOON
-  - Agustina Perez    | FRONTEND DOCUMENTACION
-  - Anderson Ocaña    | BACKEND DOCUMENTACION
+  - Yamila Villarnovo
+    - *PRESENTACION DOCUMENTACION TESTING*
+  - Joaquin Sosa      
+    - *DASHBOARD BI DOCUMENTACION*
+  - Victor Mendez    
+    - *FRONTEND DOCUMENTACION*
+  - Agustina Perez    
+    - *FRONTEND DOCUMENTACION*
+  - Anderson Ocaña    
+    - *BACKEND DOCUMENTACION*
 
 ## GANTT
 
