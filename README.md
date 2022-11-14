@@ -55,6 +55,7 @@ Esto nos permite evaluar  la cantidad de servidores o nodos que podemos generar 
 ## DIAGRAMA ONTOLOGICO 
 El diagrama inicial es: 
   [DIAGRAMA ONTOLOGICO USADO PARA EL PROYECTO](https://drive.google.com/file/d/1MaRsFZ5jyiCtx7RcAKJqUtWdBasP_rfh/view?usp=share_link)
+  
   [DIAGRAMA EN EXCALIDRAW](https://excalidraw.com/#json=MGnp3qWq24SjSlOfAMkEa,rlMOpbzqcHtCjhgBx2RRUQ)
 
 ## BASE DE DATOS
