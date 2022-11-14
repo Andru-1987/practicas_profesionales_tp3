@@ -9,6 +9,9 @@ Integrantes
   - Agustina Perez
   - Anderson Ocaña
 
+## GANTT
+![GANTT](/images/Online Gantt 20221114(2).png)
+
 ## Summary:
 
   El proyecto se entabla de crear un software integrado con distintas tecnologias tanto BI, Bases de datos y variantes, dependiendo de la necesidad del usuario, creación de un Front End.
