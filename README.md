@@ -37,6 +37,11 @@ Calculo aproximado de tiempos para el desarrollo del TP
     valor_facturacion:float
   }
   
+  /*
+  uudi >> campo auto generado por el back end (en esta ocasión se utilizsa el front como herramienta de creación con crypto.random())
+  fecha_carga>> campo auto generado directamente desde el front-end
+  */
+  
   ```
  
  ### BackEnd:
