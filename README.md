@@ -89,7 +89,7 @@ El diagrama inicial es:
   [PAGINA WEB ENTRADA](https://andru-1987.github.io/agendaGastos/index.html)
   
 ## PRESENTACIÓN DEL TRABAJO
-  [ PRESENTACION REALIZADA PARA EL TP](https://www.canva.com/design/DAFSCU2KS5k/4dQ7pJg_TA8rwJeZE3lasg/edit?utm_content=DAFSCU2KS5k&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+  [ PRESENTACION REALIZADA PARA EL TP](https://www.canva.com/design/DAFSCU2KS5k/SPJ7cpK8SN9kpYKypWUeww/view?website#2)
   
  ## DOCUMENTACION
  [DOCUMENTACION EN CANVA](https://www.canva.com/design/DAFRx8KcgnE/rCpQ3CaTHnNhNXXL06K03g/view#2)
