@@ -79,7 +79,7 @@ El diagrama inicial es:
   [API GENERADORA DE CONEXION](https://sheetdb.io/api/v1/l424ztv3cd1h4)
   
 ## FRONT END DE CARGA
-  [REPOSITORIO DEL FRONT](https://github.com/vmendezrojas95/agendaGastos.git)
+  [REPOSITORIO DEL FRONT](https://github.com/Andru-1987/agendaGastos.git)
   
   [PAGINA WEB ENTRADA](https://andru-1987.github.io/agendaGastos/index.html)
   
