@@ -86,7 +86,7 @@ El diagrama inicial es:
 ## FRONT END DE CARGA
   [REPOSITORIO DEL FRONT](https://github.com/Andru-1987/agendaGastos.git)
   
-  [PAGINA WEB ENTRADA](https://andru-1987.github.io/agendaGastos/index.html)
+  [PAGINA WEB ENTRADA](https://andru-1987.github.io/agendaGastos/)
   
 ## PRESENTACIÓN DEL TRABAJO
   [ PRESENTACION REALIZADA PARA EL TP](https://www.canva.com/design/DAFSCU2KS5k/SPJ7cpK8SN9kpYKypWUeww/view?website#2)
